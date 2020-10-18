@@ -1,0 +1,1 @@
+# spring-boot-dept-service-k8s-manifests
